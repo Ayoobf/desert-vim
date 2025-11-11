@@ -42,5 +42,8 @@
   "galleryBanner": {
     "color": "#a196ff",
     "theme": "dark"
+  },
+  "dependencies": {
+    "desert-vim": "file:"
   }
 }
